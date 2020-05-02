@@ -2,7 +2,7 @@ FROM gitpod/workspace-full-vnc
 
 # Install Cypress dependencies.
 RUN sudo apt-get update \
- && DEBIAN_FRONTEND=noninteractive sudo apt-get install -yq keyboard-configuration \
+ && sudo DEBIAN_FRONTEND=noninteractive apt-get install -yq keyboard-configuration \
  && sudo apt-get install -y \
    libgtk2.0-0 \
    libgtk-3-0 \

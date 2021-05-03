@@ -9,8 +9,7 @@ Click the Gitpod - Ready-to-Code badge above to start the development environmen
 
 ### Gitpod Disount
 
-If you like the simplicity of a one-click development environment, you can use
-coupon code `MIKENIKLES` to get 30% off for the first 3 months of your Gitpod
+If you like the simplicity of a one-click development environment, you can contact me to get 30% off for the first 3 months of your Gitpod
 subscription.
 
 ## How does it work?

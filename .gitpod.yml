@@ -3,7 +3,6 @@ image:
 
 tasks:
   - init: |
-      export CYPRESS_CACHE_FOLDER=/workspace/.cypress-cache
       npm install
       gp sync-done install
     command: npm run dev
